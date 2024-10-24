@@ -1,0 +1,17 @@
+@font-face {
+font-family:"DM Sans";
+src:url('../fonts/DMSans-Regular.woff2') format("woff2"),url('../fonts/DMSans-Regular.woff') format("woff"),url('../fonts/DMSans-Regular.otf') format("opentype");
+font-display:swap;font-style:normal;font-weight:500;
+}
+@font-face {
+font-family:"DM Sans Bold";
+src:url('../fonts/DMSans-Bold.woff2') format("woff2"),url('../fonts/DMSans-Bold.woff') format("woff"),url('../fonts/DMSans-Bold.otf') format("opentype");
+font-display:swap;font-style:normal;font-weight:600;
+}
+@font-face {
+font-family:"Widescreen-Mixed-XBold";
+src:url('../fonts/Widescreen-Mixed-XBold.woff2') format("woff2"),url('../fonts/Widescreen-Mixed-XBold.woff') format("woff"),url('../fonts/Widescreen-Mixed-XBold.otf') format("opentype");
+font-display:swap;font-style:normal;font-weight:600;
+}
+
+
